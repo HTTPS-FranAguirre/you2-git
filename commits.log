@@ -1,0 +1,151 @@
+commit ffbb884b2f3d5be39489587757b4ad4e8cb3bc02
+Author: Fran Aguirre <franaguirre.alt@gmail.com>
+Date:   Fri Sep 1 17:54:06 2023 -0300
+
+    Agregando 2 parrafos
+
+commit b49ca5c0deed68e454322fd3b1a13fd820a762a0
+Author: Fran Aguirre <franaguirre.alt@gmail.com>
+Date:   Thu Aug 31 18:06:14 2023 -0300
+
+    Probando
+
+commit a8f057b810aad95d0e1b153e675ecc9320be6af4
+Merge: 62ca4f7 34b416c
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 21:13:40 2023 -0300
+
+    tener cuidado con los push
+
+commit 62ca4f7e6255a6cea51d40ed623c19d3154fcb4d
+Merge: 9609052 3a38ff6
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 21:08:21 2023 -0300
+
+    Otro problemita
+
+commit 34b416c7d0226e126378f8cb248799efbcce5e86
+Merge: 9609052 3a38ff6
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 21:08:21 2023 -0300
+
+    Agregue estaciones con dias de inicio y los siguientes años
+
+commit 96090522168cd863a6b0841a3dc9b9aeb096051b
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 20:42:05 2023 -0300
+
+    Agregue la fecha con los dias de las estaciones
+
+commit 3a38ff66a484553170873146192dca751b700341
+Merge: e8cbb99 9edc661
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 20:57:04 2023 -0300
+
+    Fecha de estaciones y comienzo de cada una
+
+commit e8cbb9951ada6a93141f4d45058458ee8a5738a5
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 20:42:05 2023 -0300
+
+    Agregue la fecha con los dias de las estaciones
+
+commit 9edc661eab785107e525fefe19b9c9ec949d3d24
+Merge: 36dd692 5aa2856
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 20:42:37 2023 -0300
+
+    Merge branch 'main' of https://github.com/HTTPS-FranAguirre/you2-git
+
+commit 36dd6929866bdfc6df9faa7ee41b901aa95e2813
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 20:42:05 2023 -0300
+
+    Agregando estaciones del año
+
+commit 5aa2856f896cd33c927b1a0140a9229f54d9ebcf
+Merge: fa79852 36c2ddb
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 20:27:13 2023 -0300
+
+    Merge branch 'main' of https://github.com/HTTPS-FranAguirre/you2-git
+
+commit fa7985290040d5047b77ab202444524f5796faa9
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 20:12:42 2023 -0300
+
+    Agregando estaciones del año con fechas de inicio
+
+commit 36c2ddb612d6ab82530c0598aeda8c145c2f696e
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 23 20:12:42 2023 -0300
+
+    Agregando las estaciones del año
+
+commit c08113c0dc7f6cb33ed15274cb4c9b74246cf79f
+Merge: eb60ece 8d3089f
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Tue Aug 22 17:09:03 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 8d3089fd350e563d86f103deec1494e6b5bb758a
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Tue Aug 22 17:01:40 2023 -0300
+
+    Agregando index.js al index.html
+
+commit eb60ecea99df40364593153ad635e713db1f1d1a
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Tue Aug 22 16:59:45 2023 -0300
+
+    Agregando style.css al index.html
+
+commit ab6e0c5f02b4daef1c662d56be420ccd83cc11e3
+Merge: 4c4ee6d 706a63f
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Tue Aug 22 16:49:59 2023 -0300
+
+    Merge branch 'js'
+
+commit 706a63f12174bef53fd5de0ddb71766591010e01
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Mon Aug 21 18:48:19 2023 -0300
+
+    Creando index.js
+
+commit 4c4ee6de8fab735207434dd8dbf446e5e1e39c58
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Mon Aug 21 18:38:38 2023 -0300
+
+    Creando style.css
+
+commit 5e2a43191520dfc7aafb60398478a4e378966cb6
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Mon Aug 21 18:34:14 2023 -0300
+
+    Creando index.html
+
+commit 4f77897155059efac2f9aff98a756e746559eea0
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Fri Aug 18 17:32:27 2023 -0300
+
+    Ignorando archivos. exe
+
+commit 877e30894a4c397567f08ee66bcb6098cd8badb9
+Author: HTTPS-FranAguirre <105228971+HTTPS-FranAguirre@users.noreply.github.com>
+Date:   Thu Aug 17 13:03:49 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 9430924c87223f076899995ad074ca78046a4c79
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Thu Aug 17 12:52:06 2023 -0300
+
+    Agregando más contenido al README
+
+commit 168dd8c4ace81a1f1bb365696c1c2880075d80af
+Author: HTTPS-FranAguirre <franaguirre.alt@gmail.com>
+Date:   Wed Aug 16 11:06:21 2023 -0300
+
+    Agregando contenido inicial al README

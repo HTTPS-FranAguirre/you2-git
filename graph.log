@@ -1,0 +1,42 @@
+* ffbb884 Agregando 2 parrafos
+* b49ca5c Probando
+*   a8f057b tener cuidado con los push
+|\  
+| *   34b416c Agregue estaciones con dias de inicio y los siguientes años
+| |\  
+* | \   62ca4f7 Otro problemita
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| *   3a38ff6 Fecha de estaciones y comienzo de cada una
+| |\  
+| | *   9edc661 Merge branch 'main' of https://github.com/HTTPS-FranAguirre/you2-git
+| | |\  
+| | | *   5aa2856 Merge branch 'main' of https://github.com/HTTPS-FranAguirre/you2-git
+| | | |\  
+| | | | * 36c2ddb Agregando las estaciones del año
+| | | * | fa79852 Agregando estaciones del año con fechas de inicio
+| | | |/  
+| | * / 36dd692 Agregando estaciones del año
+| | |/  
+| * / e8cbb99 Agregue la fecha con los dias de las estaciones
+| |/  
+* / 9609052 Agregue la fecha con los dias de las estaciones
+|/  
+*   c08113c Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 8d3089f Agregando index.js al index.html
+* | eb60ece Agregando style.css al index.html
+* |   ab6e0c5 Merge branch 'js'
+|\ \  
+| * | 706a63f Creando index.js
+* | | 4c4ee6d Creando style.css
+| |/  
+|/|   
+* | 5e2a431 Creando index.html
+|/  
+* 4f77897 Ignorando archivos. exe
+* 877e308 Creando licencia del repositorio
+* 9430924 Agregando más contenido al README
+* 168dd8c Agregando contenido inicial al README
